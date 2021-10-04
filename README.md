@@ -47,3 +47,5 @@ coverage html
 
 ## code coverage results
 
+[alt text](https://github.com/Jebaseelanravi/header-footer-remover/blob/main/code-coverage.png?raw=true)
+
