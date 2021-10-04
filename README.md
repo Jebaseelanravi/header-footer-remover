@@ -37,6 +37,8 @@ pytest test_main.py
 
 ```
 
+![alt text](https://github.com/Jebaseelanravi/header-footer-remover/blob/main/test-results.png?raw=true)
+
 ## How to get the code coverage
 
 ```shell
