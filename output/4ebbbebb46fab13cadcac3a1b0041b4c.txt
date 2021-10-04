@@ -1,0 +1,1419 @@
+          The text below has been prepared to reflect the text passed by the National Assembly and is
+              for information purposes only. The authoritative version is the one published in the
+                                      Government Gazette of Mauritius.
+
+
+
+         THE FINANCIAL INTELLIGENCE AND ANTI-MONEY LAUNDERING ACT 2002
+                                          Act 6/2002 - 10 June 2002
+                                          ARRANGEMENT OF SECTIONS
+
+SECTION
+PART I - PRELIMINARY
+1. Short title
+2. Interpretation
+PART II - MONEY LAUNDERING OFFENCES
+3.    Money Laundering
+4.    Conspiracy to commit the offence of money laundering
+5.    Limitation of payment in cash
+6.    Procedure
+7.    Jurisdiction
+8.    Penalty
+
+PART III - THE FINANCIAL INTELLIGENCE UNIT
+
+9. Establishment of the FIU
+
+10.   Functions of the FIU
+11.   Exercise of functions of the FIU
+12.   The Board
+13.   Dissemination of information by Director
+
+
+PART IV - REPORTING AND OTHER MEASURES TO COMBAT MONEY LAUNDERING
+
+14. Reporting obligations of banks, financial institutions, cash dealers and members of relevant professions or
+    occupations
+15. Lodging of reports of suspicious transactions
+16. Legal consequences of reporting
+17. Other measures to combat money laundering
+18. Regulatory action in the event of non-compliance
+19. Offences relating to obligation to report and keep records and to disclosure of information prejudicial to a
+    request
+PART IVA - NATIONAL COMMITTEE FOR ANTI-MONEY LAUNDERING AND COMBATING FINANCING OF
+TERRORISM
+
+19A. Establishment of National Committee
+19B. Functions of National Committee
+19C. Meetings of National Commitee
+PART V - PROVISION AND EXCHANGE OF INFORMATION IN RELATION TO MONEY LAUNDERING AND
+FINANCIAL INTELLIGENCE INFORMATION
+20. Membership of International financial intelligence groups and provision of information to overseas financial
+    intelligence unit or comparable body
+21. Provision of information to investigatory or supervisory authorities
+22. Reference of information by the supervisory authorities
+PART VI - EXTRADITION IN RELATION TO CASES OF MONEY LAUNDERING
+      Amended by [Act No. 34 of 2003]
+23. – 28. -
+
+29. Money laundering offence to be extraditable
+PART VIA – ACCOUNTS, AUDIT AND ANNUAL REPORT
+29A. Accounting records
+29B. Strategic plan and annual estimates
+29C. Annual report
+29D. Submission of annual report
+29E. Disciplinary action for non-compliance
+29F. Submission of annual report to Minister
+PART VII - MISCELLANEOUS
+30. Confidentiality
+31. Declaration of assets
+32. Immunity
+33. Funding
+34. -
+35. Regulations
+36. – 37.
+
+    First Schedule
+    Second Schedule
+    Third Schedule
+
+
+                  THE FINANCIAL INTELLIGENCE AND ANTI-MONEY LAUNDERING ACT
+                                               PART I-PRELIMINARY
+1. Short title
+       This Act may be cited as the Financial Intelligence and Anti-Money Laundering Act 2002.
+
+2. Interpretation
+
+       In this Act –
+
+       “annual report” means the annual report under section 29 C;
+
+       “bank” –
+
+
+       (a) has the same meaning as in the Banking Act; and
+
+
+       (b) includes –
+    (i) a moneylender;
+
+
+    (ii) a credit union;
+
+
+    (iii) any person carrying on non-bank deposit taking business, licensed under the Banking Act;
+
+
+“Bank of Mauritius” means the Bank of Mauritius established under the Bank of Mauritius Act;
+
+
+“banking laws” has the same meaning as in the Banking Act;
+
+
+“Board” means the Board of the Financial Intelligence Unit constituted under section 12;
+
+"cash" -
+
+ (a) means money in notes or coins of Mauritius or in any other currency; and
+
+ (b) includes any cheque which is neither crossed nor made payable to order whether in Mauritian
+     currency or in any other currency;
+
+“cash dealer” has the same meaning as in the Banking Act;
+
+“Code of Corporate Governance” has the same meaning as in the Financial Reporting Act;
+
+"Commission" means the Independent Commission Against Corruption established under the Prevention
+of Corruption Act;
+
+
+“Comparable Body” - means an overseas Government agency with functions similar to those of the
+FIU;
+
+
+"crime" –
+
+ (a) means an offence punishable by –
+
+     (i) penal servitude;
+
+     (ii) imprisonment for a term exceeding 10 days ;
+
+     (iii) a fine exceeding 5,000 rupees;
+
+
+ (b) includes -
+     (i) an activity carried on outside Mauritius and which, had it taken place in Mauritius, would have
+          constituted a crime; and
+     (ii) an act or omission which occurred outside Mauritius but which, had it taken place in Mauritius,
+          would have constituted a crime;
+
+“Director” - means the Director of the FIU appointed under section 9 (2);
+“Enforcement Authority” has the same meaning as in the Asset Recovery Act;
+
+“estimates of expenditure” has the same meaning as in the Finance and Audit Act;
+
+
+ “estimates of income” has the same meaning as in the Finance and Audit Act;
+
+
+"exempt transaction" means a transaction –
+
+
+  (a) between the Bank of Mauritius and any other person;
+  (b) between a bank and another bank;
+  (c) between a bank and a financial institution;
+  (d) between a bank or a financial institution and a customer where –
+
+
+        (i) the transaction does not exceed an amount that is commensurate with the lawful activities of the
+              customer, and –
+
+
+           (A) the customer is, at the time the transaction takes place, an established customer of the bank
+               or financial institution; and
+
+
+           (B) the transaction consists of a deposit into, or withdrawal from, an account of a customer with
+               the bank or financial institution; or
+
+
+        (ii) the chief executive officer or chief operating officer of the bank or financial institution, as the case
+           may be, personally approves the transaction in accordance with any guidelines, instructions or
+           rules issued by a supervisory authority in relation to exempt transactions; or
+
+
+
+  (e)     between such other persons as may be prescribed;
+
+
+ “financial institution” means an institution, or a person, licensed or registered or required to be licensed
+             or registered under –
+
+
+    (a) section 14 or 77 of the Financial Services Act;
+
+
+    (b) the Insurance Act; or
+
+
+    (c) the Securities Act;
+
+“financial services” has the same meaning as in the Financial Services Act;
+  "Financial Services Commission" means the Commission established under the Financial Services Act;
+
+
+
+   “financial statements”, in relation to a financial year –
+
+
+                  (a)     means –
+
+
+                          (i)     a statement of financial position;
+
+
+                          (ii)    a statement of financial performance;
+
+
+                          (iii)   a statement of changes in net assets or equity;
+
+
+                          (iv)    a cash flow statement; and
+
+
+                          (v)     a statement of comparison of annual estimates and actual amounts; and
+
+
+                  (b)     includes notes, comprising a summary of significant accounting policies and other
+                          explanatory notes;
+
+
+“financial year” has the meaning assigned to it by section 2A of the Finance and Audit Act;
+
+
+
+
+"FIU" means the Financial Intelligence Unit established under section 9(1);
+
+
+“IFAC” has the same meaning as in the Financial Reporting Act;
+
+"investigatory authorities" means the Commissioner of Police, the Mauritius Revenue Authority, the
+
+  Enforcement Authority and the Commission;
+
+“Mauritius Revenue Authority” means the Mauritius Revenue Authority established under the Mauritius
+
+Revenue Authority Act;
+
+
+
+  “member of a relevant profession or occupation” means a person specified in Column 1 of Part I of the
+  First Schedule;
+
+
+  "Minister" means the Minister to whom responsibility for the subject of money laundering is assigned;
+"money laundering offence" means an offence referred to in Part II;
+
+
+
+“National Committee” means the National Committee for Anti- Money Laundering and Combating the
+ Financing of Terrorism established under section 19A;
+
+"overseas country" means a country or territory outside Mauritius;
+
+
+
+"overseas financial intelligence units" means the financial intelligence units constituted in the overseas
+ countries specified in Part II of the First Schedule and whose functions correspond to some or all of those
+ of the FIU;
+
+"property" -
+ (a) means property of any kind, nature or description, whether moveable or immoveable, tangible or
+    intangible; and
+ (b) includes -
+     (i) any currency, whether or not the currency is legal tender in Mauritius, and any bill, security, bond,
+         negotiable instrument or any instrument capable of being negotiated which is payable to bearer or
+         endorsed payable to bearer, whether expressed in Mauritius currency or otherwise;
+     (ii) any balance held in Mauritius currency or in any other currency in accounts with any bank which
+         carries on business in Mauritius or elsewhere;
+     (iii) any balance held in any currency with any bank outside Mauritius;
+     (iv) motor vehicles, ships, aircraft, boats, works of art, jewellery, precious metals or any other item of
+         value; and
+     (v) any right or interest in property;
+
+
+
+“regulatory body”, in relation to the member of a relevant profession or occupation specified in Column 1
+of Part I of the First Schedule, means the corresponding body specified in Column 2 of Part I of the First
+Schedule;
+
+
+
+"relevant enactments" means this Act, the Banking Act, the Bank of Mauritius Act, the
+Financial Services Act and the Prevention of Corruption Act;
+
+ “supervisory authorities” –
+
+  (a) means –
+
+                        (i)     the Bank of Mauritius;
+
+                        (ii)    the Financial Services Commission;
+
+                                     (b)      includes a regulatory body specified in Column 2 of Part I of the
+                            First Schedule;
+
+     "suspicious transaction" means a transaction which –
+
+
+     (a)              gives rise to a reasonable suspicion that it may involve
+
+            (i)     the laundering of money or the proceeds of any crime; or
+
+             (ii) funds linked or related to, or to be used for, terrorist financing or by proscribed organisations,
+                        whether or not the funds represent the proceeds of a crime;
+
+
+     (b)    is made in circumstances of unusual or unjustified complexity;
+     (c)    appears to have no economic justification or lawful objective;
+     (d)    is made by or on behalf of a person whose identity has not been established to the satisfaction of
+            the person with whom the transaction is made; or
+
+
+     (e)    gives rise to suspicion for any other reason.
+
+
+     "transaction" includes -
+      (a)    opening an account, issuing a passbook, renting a safe deposit box, entering into a fiduciary
+             relationship or establishing any other business relationship, whether electronically or otherwise;
+             and
+
+      (b)    a proposed transaction.
+
+                                 PART II - MONEY LAUNDERING OFFENCES
+
+3.   Money Laundering
+     (1)    Any person who -
+
+            (a)     engages in a transaction that involves property which is, or in whole or in part directly or
+                    indirectly represents, the proceeds of any crime; or
+            (b)     receives, is in possession of, conceals, disguises, transfers, converts, disposes of,
+                    removes from or brings into Mauritius any property which is, or in whole or in part directly
+                    or indirectly represents, the proceeds of any crime,
+
+            where he suspects or has reasonable grounds for suspecting that the property is derived or
+             realized, in whole or in part, directly or indirectly from any crime, shall commit an offence.
+
+
+     (2)    A bank, financial institution, cash dealer or member of a relevant profession or occupation that fails
+            to take such measures as are reasonably necessary to ensure that neither it nor any service
+            offered by it, is capable of being used by a person to commit or to facilitate the commission of a
+            money laundering offence or the financing of terrorism shall commit an offence.
+     (3)     In this Act, reference to concealing or disguising property which is, or in whole or in part, directly
+             or indirectly, represents, the proceeds of any crime, shall include concealing or disguising its true
+             nature, source, location, disposition, movement or ownership of or rights with respect to it.
+
+
+4.   Conspiracy to commit the offence of money laundering
+     Without prejudice to section 109 of the Criminal Code (Supplementary) Act, any person who agrees with
+     one or more other persons to commit an offence specified in section 3(1) and (2) shall commit an offence.
+
+
+5.   Limitation of payment in cash
+     (1)     Notwithstanding section 37 of the Bank of Mauritius Act, but subject to subsection (2), any person
+             who makes or accepts any payment in cash in excess of 500,000 rupees or an equivalent amount
+             in foreign currency, or such amount as may be prescribed, shall commit an offence.
+
+
+     (2)     Subsection (1) shall not apply to an exempt transaction.
+
+
+6.   Procedure
+     (1)     A person may be convicted of a money laundering offence notwithstanding the absence of a
+             conviction in respect of a crime which generated the proceeds alleged to have been laundered.
+
+     (2)     Any person may, upon single information or upon separate information, be charged with and
+             convicted of both the money laundering offence and of the offence which generated the proceeds
+             alleged to have been laundered.
+
+     (3)     In any proceedings against a person for an offence under this Part, it shall be sufficient to aver in
+             the information that the property is, in whole or in part, directly or indirectly the proceeds of a crime,
+             without specifying any particular crime, and the Court, having regard to all the evidence, may
+             reasonably infer that the proceeds were, in whole or in part, directly or indirectly, the proceeds of
+             a crime.
+
+
+7.   Jurisdiction
+     Notwithstanding any other enactment, the Intermediate Court shall have jurisdiction to try any offence
+     under this Act or any regulations made thereunder and may, on conviction, impose any penalty including
+     forfeiture.
+
+
+8.   Penalty
+     (1)     Any person who -
+
+             (a)     commits an offence under this Part; or
+
+             (b)     disposes or otherwise deals with property subject to a forfeiture order under subsection
+                     (2),
+            shall, on conviction, be liable to a fine not exceeding 2 million rupees and to penal servitude for a
+             term not exceeding 10 years.
+
+
+      (2)   Any property belonging to or in the possession or under the control of any person who is convicted
+            of an offence under this Part shall be deemed, unless the contrary is proved, to be derived from a
+            crime and the Court may, in addition to any penalty imposed, order that the property be forfeited.
+
+      (3)   Sections 150, 151 and Part X of the Criminal Procedure Act and the Probation of Offenders Act
+            shall not apply to a conviction under this Part.
+
+
+                              PART III - THE FINANCIAL INTELLIGENCE UNIT
+
+9.    Establishment of the FIU
+
+
+      (1)   There is established for the purposes of this Act a Financial Intelligence Unit which shall have all
+            the powers necessary to administer, and exercise its functions under, this Act.
+
+      (2)   The head of the FIU shall be the Director who shall be a person of high repute with substantial
+            experience in the financial services industry or law enforcement and experience in management
+            and accounting and appointed by the President on the recommendation of the Prime Minister made
+            in consultation with the Leader of the Opposition, on such terms and conditions as the Prime
+            Minister may determine.
+
+      (3)   The Director shall be responsible for the administration and management of the FIU and shall be
+            assisted by such persons as may be appointed by the Director to assist him.
+
+
+      (4)   In the discharge of his functions and the exercise of his powers under this Act, the Director shall
+            act without fear or favour and, subject to section 12, shall not be subject to the direction or control
+            of any other person or authority other than, in matters of discipline, the President acting on the
+            advice of the Prime Minister.
+
+
+10.   Functions of the FIU
+
+
+      (1)   The FIU shall be the central agency in Mauritius responsible for receiving, requesting, analysing
+            and disseminating to the investigatory and supervisory authorities disclosures of information -
+
+            (a)     concerning suspected proceeds of crime and alleged money laundering offences;
+
+            (b)     required by or under any enactment in order to counter money laundering; or
+
+
+            (c)     concerning the financing of any activities or transactions related to terrorism .
+
+      (2)   For the purposes of subsection (1), the FIU shall -
+   (a)     collect, process, analyse and interpret all information disclosed to it and obtained by it
+           under the relevant enactments;
+
+   (b)     inform, advise and co-operate with the Enforcement Authority and the investigatory and
+           supervisory authorities;
+
+
+(ba) issue guidelines to members of a relevant profession or occupation on measures to combat
+ money laundering or financing of terrorism that are in force in jurisdictions having standards
+ comparable to Mauritius;
+
+
+
+   (c)     issue guidelines to banks, financial institutions, cash dealers and members of a relevant
+           profession or occupation on the manner in which -
+
+           (i) a report under section 14 shall be made; and
+           (ii) additional information may be supplied to the FIU, on a suspicious transaction, pursuant
+               to a request made under section 13(2) or (3);
+
+
+ (d) - (e) –
+
+
+ (f)      exchange information with overseas financial intelligence units and comparable
+           Bodies;
+
+
+ (g)      undertake, and assist in, research projects in order to identify the causes of money
+          laundering and terrorist financing and its consequences.
+
+
+
+
+   (3)         Any institution to which, or person to whom, guidelines are issued under subsection (2)
+               (ba) or (c) shall comply with those guidelines.
+
+
+
+   (4)         Where an institution or a person fails to comply with guidelines issued under subsection
+               (3), the institution or person shall be liable to pay a penalty not exceeding 50,000 rupees
+               for each day on which such breach occurs as from the date on which the breach is
+               notified or otherwise comes to the attention of the FIU and such penalty may be
+               recovered by the Director as if it were a civil debt.
+
+   (5)         Any penalty collected by the Director under subsection (4) shall, as soon as practicable,
+               be paid into the Consolidated Fund.
+             (6)        For the purposes of section 18(3A), a regulatory body which exercises control over
+                        members of a relevant profession or occupation may require any member of the
+                        relevant profession or occupation to furnish it with such information and produce such
+                        record or document at such time and place as may be required in writing by the
+                        regulatory body.
+
+
+
+             (7)        Any member of a relevant profession or occupation who fails to furnish the information
+                        or produce the record or document required under subsection (6) shall commit an
+                        offence and shall, on conviction, be liable to a fine not exceeding 500,000 rupees and
+                        to imprisonment for a term not exceeding 5 years.
+
+
+
+
+11.   Exercise of functions of the FIU
+
+
+      (1)   The functions of the FIU shall be exercised by the Director or such of the persons appointed under
+            section 9(3) as the Director may determine.
+
+
+      (2)   In furtherance of the functions of the FIU, the Director shall consult with and seek such assistance
+            from such persons in Mauritius concerned with combating money laundering, including law
+            officers, the Police and other Government agencies and persons representing banks, financial
+            institutions, cash dealers and members of the relevant professions or occupations, as the FIU
+            considers appropriate.
+
+
+12.   The Board
+
+
+      (1)   There is set up for the purposes of this Act a Board which shall consist of –
+
+            (a) a Chairperson, who shall be a person who has –
+
+            (i) served as a Judge of the Supreme Court; or
+
+             (ii) served as a Magistrate, or been a law officer or practised as a barrister, in Mauritius for at least
+                     10 years;
+
+             (b) 2 other members of high repute, of whom one shall be a person with substantial experience in
+                    the legal profession and the other shall be a person with substantial experience in the
+                    financial services industry.
+
+      (2)   The Chairperson and members of the Board shall be appointed by the President on the
+            recommendation of the Prime Minister made in consultation with the Leader of the Opposition.
+
+      (3)   The appointment of the Chairperson and each member of the Board shall be on such terms as
+            may be specified in the instrument of appointment of the Chairperson and each such member.
+      (4)      The Board may act notwithstanding the absence of one of its members.
+
+
+      (4A) -
+
+
+      (5)      The functions of the Board shall be to –
+
+
+                              (a)     keep under overall review the manner in which the FIU discharges its
+                                      functions under this Act and to formulate the necessary policies for
+                                      implementation by the Director with a view to achieving the objects of the
+                                      FIU;
+
+
+                              (b)     review and approve the budgetary estimates of the FIU;
+
+
+
+                              (c)     issue such instructions as it considers appropriate with regard to the
+                                      financial management of the FIU;
+
+
+
+                              (d)     advise the Director on matters relating to the discharge by the FIU of its
+                                      functions; and
+
+                              (e)     consider the annual report of the FIU and report to the Minister on any
+                                      matter appearing in or arising out of such report.
+
+
+
+      (6) The Board shall not have the power to consider, discuss or deliberate on any matter relating to the
+      lodging, analysing, reporting, requesting or disseminating of information in respect of any suspicious
+      transaction report, nor will it have access to information concerning any suspicious transaction report.
+
+
+      (7)             Subject to subsections (4) to (6), the Board shall determine its own procedure.
+
+
+
+
+13.   Dissemination of information by Director
+
+
+      (1)      Where there are grounds to suspect money laundering, predicate offences or terrorism financing,
+               the Director shall disseminate information and the results of the analysis of the FIU to the relevant
+               investigatory authority, supervisory authority, overseas financial intelligence unit or comparable
+               body for appropriate action.
+(2)       Where a report of a suspicious transaction has been made under section 14, the Director may,
+          notwithstanding section 300 of the Criminal Code or any other enactment for the purposes of
+          assessing whether any information should be disseminated to investigatory or supervisory
+          authorities, request further information in relation to the suspicious transaction from -
+
+      (a) the bank, financial institution, cash dealer or member of a relevant profession or occupation who
+          made the report; and
+      (b) any other bank, financial institution, cash dealer or member of a relevant profession or occupation
+          who is, or appears to be, involved in the transaction.
+
+
+
+ (3) Where –
+
+       (a) the FIU becomes aware of any information which gives rise to a reasonable suspicion that a money
+          laundering offence or a terrorism financing offence might have been committed or is about to be
+          committed; or
+       (b) a request for information is made by any investigatory or supervisory authority, Government
+          agency or overseas financial intelligence unit or comparable body,
+
+the Director may, notwithstanding section 300 of the Criminal Code, section 64 of the Banking Act or any
+other enactment, for the purposes of assessing whether any information should be disseminated to the
+investigatory or supervisory authority, Government agency or overseas financial intelligence unit or
+comparable body, request further information in relation to the suspicious transaction from any bank, cash
+dealer, financial institution or member of a relevant profession or occupation which is or who is involved,
+or appears to be involved, in the transaction.
+
+ (4)      Where a bank, financial institution, cash dealer or member of a relevant profession or occupation
+        receives a request for further information under subsection (2) or (3), the bank, financial institution,
+      cash dealer or member of the relevant profession or occupation shall, as soon as practicable, but not
+                                 later than 15 working days, furnish the FIU with the requested information.
+
+
+(5)       Where a report of a suspicious transaction has been made under section 14, the Director shall –
+
+
+         (a)       in the case of a bank, financial institution or cash dealer, not later than 15 days before
+                   the end of the 7th year following the completion of the transaction to which the suspicious
+                   transaction report relates; or
+
+
+          (b) in the case of a member of a relevant profession or occupation, at any time,
+              by written notice, require the bank, financial institution, cash dealer or member of the relevant
+              profession or occupation, as the case may be, to keep the records in respect of that suspicious
+              transaction for such period as may be specified in the notice.
+
+
+              PART IV - REPORTING AND OTHER MEASURES TO COMBAT MONEY LAUNDERING
+14.   Reporting obligations of banks, financial institutions, cash dealers and members of relevant
+      professions or occupations
+
+      (1)     Every bank, financial institution, cash dealer or member of a relevant profession or occupation
+              shall, as soon as practicable, but not later than 15 working days, make a report to the FIU of any
+              transaction which the bank, financial institution, cash dealer or member of the relevant profession
+              or occupation has reason to believe may be a suspicious transaction.
+
+
+       (1A)    Where the FIU receives a report under subsection (1), it shall provide feedback in writing on the
+               outcome of the report to the bank, financial institution, cash dealer or member of the relevant
+               profession or occupation and to the relevant supervisory authority.
+
+
+      (2)     Nothing in subsection (1) shall be construed as requiring a law practitioner to report any transaction
+              of which he has acquired knowledge in privileged circumstances unless it has been communicated
+              to him with a view to the furtherance of a criminal or fraudulent purpose.
+
+
+
+
+15.   Lodging of reports of suspicious transactions
+
+      (1)     Every report under section 14 shall be lodged with the FIU.
+
+      (2)     For the purposes of this Part, every report shall be in such form as the FIU may approve and shall
+              include -
+              (a)    the identification of the party or parties to the transaction;
+              (b)    the amount of the transaction, the description of the nature of the transaction and all the
+                     circumstances giving rise to the suspicion;
+
+              (c)    the business relationship of the suspect to the bank, financial institution, cash dealer or
+                     member of relevant profession or occupation, as the case may be;
+              (d)    where the suspect is an insider, any information as to whether the suspect is still affiliated
+                     with the bank, financial institution, cash dealer, or member of a relevant profession or
+                     occupation, as the case may be;
+              (e)    any voluntary statement as to the origin, source or destination of the proceeds;
+                 (f)     the impact of the suspicious activity on the financial soundness of the reporting institution
+                         or person; and
+                 (g)     the names of all the officers, employees or agents dealing with the transaction.
+
+
+       (3)       No report of a suspicious transaction shall be required to be disclosed, or be admissible as
+                 evidence, in any court proceedings.
+
+
+16.    Legal consequences of reporting
+
+                 (1)     No person directly or indirectly involved in the reporting of a suspicious transaction under
+                         this Part shall inform any person involved in the transaction or to an unauthorised third
+                         party that the transaction has been reported or that information has been supplied to the
+                         FIU pursuant to a request made under section 13(2) or (3).
+
+                 (1A)    Notwithstanding subsection (1), any supervisory authority may, for the sole purpose of
+                         discharging its compliance functions, request the FIU to provide it with a copy of the
+                         suspicious transaction report made under section 14(1).
+
+
+                 (2)     No proceedings shall lie against any person for having -
+
+(a)    reported in good faith under this Part any suspicion he may have had, whether or not the suspicion proves
+       to be well founded following investigation or prosecution or any other judicial action;
+
+(b)    supplied any information to the FIU pursuant to a request made under section 13(2) or (3).
+
+(3)   No officer who receives a report made under this Part shall incur liability for any breach of confidentiality for
+      any disclosure made in compliance with this Act.
+
+(4)          For the purposes of this section –
+
+             “officer” includes a director, employee, agent or other legal representative;
+
+
+
+             “unauthorised third party” includes any of the supervisory authorities.
+
+
+
+17.    Other measures to combat money laundering
+       Without prejudice to section 3(2), every bank, financial institution, cash dealer or member of a relevant
+       profession or occupation shall -
+
+       (a)       verify, in such manner as may be prescribed, the true identity of all customers and other persons
+                 with whom they conduct transactions;
+       (b)       keep such records, registers and documents as may be required under this Act or by regulations;
+      (c)   upon a Court order, make available such records, registers and documents as may be required by
+            the order; and
+
+
+      (d)   put in place appropriate screening procedures to ensure high standards when recruiting
+            employees.
+
+
+
+18.   Regulatory action in the event of non-compliance
+
+
+      (1)   (a) The supervisory authorities may issue such codes and guidelines as they consider appropriate
+            to combat money laundering activities and terrorism financing, to banks, cash dealers or financial
+            institutions, subject to their supervision.
+
+             (b)     The Bank of Mauritius shall supervise and enforce compliance by banks and cash dealers
+                     with the requirements imposed by this Act, regulations made under this Act and such
+                     guidelines as it may issue under paragraph (a).
+
+             (c)     The Financial Services Commission shall supervise and enforce compliance by financial
+                     institutions with the requirements imposed by this Act, regulations made under this Act
+                     and such guidelines as it may issue under paragraph (a).
+
+
+      (2)   Where it appears to the Bank of Mauritius that any bank or cash dealer subject to its supervision
+            has failed to comply with any requirement imposed by this Act or any regulations applicable to that
+            bank or cash dealer and that the failure is caused by a negligent act or omission or by a serious
+            defect in the implementation of any such requirement, the Bank of Mauritius, in the absence of any
+            reasonable excuse, may -
+
+
+                    (a)     in the case of a bank, proceed against it under sections 11 and 17 of the Banking
+                            Act on the ground that it is carrying on business in a manner which is contrary to
+                            the interest of the public;
+
+
+                    (b)     in the case of a cash dealer, proceed against him under section 17 of the Banking
+                            Act on the ground that he is carrying on business in a manner which is contrary to
+                            the interest of the public.
+
+
+      (3)   Where it appears or where it is represented to the Financial Services Commission that any financial
+            institution has refrained from complying or negligently failed to comply with any requirement of this
+            Act or regulations, the Financial Services Commission may proceed against the financial institution
+            under section 7 of the Financial Services Act on the ground that it is carrying on its business in a
+            manner which is contrary or detrimental to the interest of the public.
+       (3A) A regulatory body shall supervise and enforce compliance by members of a relevant profession or
+             occupation with the requirements imposed by this Act, the regulations made under this Act and
+             such guidelines as may be issued under section 10(2) (ba) and (c).
+
+      (4)    Where it appears or is represented to any regulatory body that any member of a relevant profession
+             or occupation over which it exercises control has refrained from complying or negligently failed to
+             comply with any requirement of this Act or regulations, the regulatory body may take, against the
+             member concerned, any action which it is empowered to take in the case of professional
+             misconduct, or dishonesty, malpractice or fraud, by that member.
+
+
+19.   Offences relating to obligation to report and keep records and to disclosure of information
+      prejudicial to a request
+
+
+      (1)    Any bank, cash dealer, financial institution or member of a relevant profession or occupation or
+             any director, employee, agent or other legal representative thereof, who, knowingly or without
+             reasonable excuse -
+
+
+             (a) fails to –
+
+
+                              (i) supply any information requested by the FIU under section 13(2) or 13(3) within
+                                  the date specified in the request;
+
+
+                              (ii) make a report under section 14; or
+                              (iii) verify, identify or keep records, registers or documents, as required under
+                                  section 17;
+
+
+
+             (b)     destroys or removes any record, register or document which is required under this Act or
+                     any regulations;
+
+             (c)     warns or informs the owner of any funds of any report required to be made in respect of
+                     any transaction, or of any action taken or required to be taken in respect of any transaction,
+                     related to such funds; or
+
+             (d)     facilitates or permits the performance under a false identity of any transaction falling within
+                     this Part,
+
+
+      shall commit an offence and shall, on conviction, be liable to a fine not exceeding one million rupees and
+      to imprisonment for a term not exceeding 5 years.
+
+
+      (2)    Any person who -
+               (a)      falsifies, conceals, destroys or otherwise disposes of or causes or permits the falsification,
+                        concealment, destruction or disposal of any information, document or material which is or
+                        is likely to be relevant to a request to under the Mutual Assistance in Criminal and Related
+                        Matters Act; or
+
+               (b)      knowing or suspecting that an investigation into a money laundering offence has been or
+                        is about to be conducted, divulges that fact or other information to another person whereby
+                        the making or execution of a request to under the Mutual Assistance in Criminal and
+                        Related Matters Act is likely to be prejudiced,
+      shall commit an offence and shall, on conviction, be liable to a fine not exceeding one million rupees and
+       to imprisonment for a term not exceeding 5 years.
+
+
+       PART IV A – NATIONAL COMMITTEE FOR ANTI-MONEY LAUNDERNG AND COMBATING THE
+                                  FINANCING OF TERRORISM
+
+       19A           Establishment of National Committee
+
+       (1) There is established for the purposes of this Act a National Committee for AntiMoney Laundering and
+           Combating the Financing of Terrorism.
+
+      (2)    The National Committee shall consist of –
+
+
+
+            (a) the Financial Secretary or his representative, who shall act as Chairperson:
+            (b) a representative of the Prime Minister’s Office;
+            (c) a representative of the Attorney-General’s Office;
+            (d) the Director of Public Prosecutions or his representative;
+            (e) the Registrar of Associations or his representative;
+            (f) a representative of the Ministry responsible for foreign affairs;
+            (g) the Commissioner of Police or his representative;
+            (h) the Director-General of the Mauritius Revenue Authority or his representative;
+            (i) the Director of the FIU or his representative;
+            (j) a Deputy Governor of the Bank of Mauritius or his representative;
+            (k) the Chief Executive of the Financial Services Commission or his representative;
+            (l) the Commissioner appointed under section 45(8) of the Dangerous Drugs Act or his
+               representative;
+            (m) the Commissioner appointed under section 19 of the Prevention of Corruption Act or his
+               representative.
+            (n) the Chief Executive of the Gambling Regulatory Authority or his representative.
+
+
+(3) The National Committee may co-opt such other persons as appear to it to have special knowledge or
+experience in a
+      19B        Functions of the National Committee
+
+      The National Committee shall –
+
+      (a) assess the effectiveness of policies and measures to combat money laundering and the financing of terrorism;
+      (b) make recommendations to the Minister for legislative, regulatory and policy reforms in respect of anti-money
+         laundering and combating the financing of terrorism;
+
+      (c) promote co-ordination among the FIU, investigatory authorities, supervisory authorities and other institutions
+         with a view to improving the effectiveness of existing policies to combat money laundering and the financing
+         of terrorism;
+
+      (d) formulate policies to protect the international reputation of Mauritius with regard to anti-money laundering and
+         combating the financing of terrorism;
+
+      (e) generally advise the Minister in relation to such matters relating to anti-money laundering and combating the
+         financing of terrorism, as the Minister may refer to the National Committee.
+
+19C      Meetings of the National Committee
+
+         (1) Seven members shall constitute a quorum of the National Committee.
+         (2) The National Committee shall regulate its meetings and proceedings in such manner as it thinks fit.
+
+      PART V - PROVISION AND EXCHANGE OF INFORMATION IN RELATION TO MONEY LAUNDERING AND
+               FINANCIAL INTELLIGENCE INFORMATION
+20.      Membership of international financial intelligence groups and provision of information to overseas
+         financial intelligence unit or comparable body
+
+
+        (1)    The FIU shall be the only body in Mauritius which may seek recognition by any international group of
+               overseas financial intelligence units which exchange financial intelligence information on the basis of
+               reciprocity and mutual agreement.
+
+
+        (2)    Where it becomes a member of any such international group as is referred to in subsection (1), the FIU
+               may exchange information with other members of the group in accordance with the conditions for such
+               exchanges established by the group.
+
+        (3)    Without prejudice to subsections (1) and (2), where the FIU becomes aware of any information which
+               may be relevant to the functions of any overseas financial intelligence unit, or comparable body it may,
+               offer to pass on that information to the overseas financial intelligence unit or comparable body on terms
+               of confidentiality requiring the consent of the FIU prior to the information being passed on to any other
+               person.
+
+        (4)    Subject to subsection (5), where a request for information is received from an overseas financial
+               intelligence unit or comparable body, the FIU shall pass on any relevant information in its possession to
+           the overseas financial intelligence unit or comparable body, on terms of confidentiality requiring the
+           consent of the FIU prior to the information being passed on to any other person.
+
+   (5)     Where a request referred to in subsection (4) concerns information which has been provided to the FIU
+           by a supervisory authority, a Ministry or other Government department or statutory body, the information
+           shall not be passed on without the consent of that supervisory authority, Ministry, Government
+           department or statutory body, as the case may be.
+
+
+
+21. Provision of information to investigatory or supervisory authorities
+
+   (1) Where it becomes aware of any information, which-
+
+         (a) may be relevant to the functions of any of the supervisory authorities; and
+         (b) does not of itself justify a dissemination to any of the investigatory authorities under section 13, the FIU
+            may, by itself or at the request of the supervisory authorities, subject to subsection (4) , pass on the
+            information to the relevant supervisory authority.
+
+   (2) Where it becomes aware of any information which may be relevant to an investigation or prosecution being
+         conducted by one of the investigatory authorities, the FIU shall, subject to subsection (4), pass on the
+         information to that investigatory authority.
+
+   (3) Where it becomes aware of any information which may be relevant to a possible corruption offence, within
+         the meaning of the Prevention of Corruption Act 2002, the FIU shall, subject to subsection (4), pass on the
+         information to the Commission.
+
+   (4) If any information falling within subsections (1), (2) or (3) was provided to the FIU by a body outside
+         Mauritius on terms of confidentiality, the information shall not be passed on as specified in those
+         subsections without the consent of the body by which it was provided.
+
+
+
+
+22. Reference of information by the supervisory authorities
+
+
+   (1) Notwithstanding any other enactment, where, at any time in the course of the exercise of its functions, any
+         supervisory authority receives, or otherwise becomes aware of, any information suggesting the possibility
+         of a money laundering offence or suspicious transaction, the supervisory authority, shall, forthwith pass on
+         that information to the FIU.
+
+   (2) -
+  (3) No liability shall be incurred under any enactment, whether for breach of confidentiality or otherwise, in
+        respect of the disclosure of any information to the FIU pursuant to this section by the supervisory authority
+        or any of its officers or members of its Board.
+
+
+  (4) For the purposes of this subsection,
+
+
+      "officer" includes a director, employee, agent or other legal representative.
+
+
+PART VI - EXTRADITION IN RELATION TO CASES OF MONEY LAUNDERING
+
+            Amended by [Act No.35 of 2003]
+
+
+23- 28 -
+
+29.      Money laundering offence to be extraditable
+         Any money laundering offence shall be deemed to be an extradition crime for which extradition may be
+         granted or obtained under the Extradition Act.
+
+
+                                      PART VIA – ACCOUNTS, AUDIT AND ANNUAL REPORT
+
+
+29A.           Accounting records
+
+
+               The FIU shall keep and maintain proper accounting records for the purpose of recording all
+               transactions relating to its undertakings, funds, activities and property.
+
+
+29B.           Strategic plan and annual estimates
+
+
+               (1) The FIU shall submit to the Minister, not later than 30 June in every year, in respect of the next
+                  financial year, a 3-year strategic plan in line with the programme-based budgeting indicating the
+                  vision and goals of the FIU with a view to attaining its objects and appreciation of the state of its
+                  affairs.
+
+
+
+               (2) The FIU shall submit to the Minister, not later than 31 August in every year, in respect of the next
+                  financial year, estimates of income and estimates of expenditure of the FIU, duly approved by the
+                  Board.
+
+
+29C.     Annual report
+
+
+         (1)                 The FIU shall cause to be prepared an annual report.
+       (2)
+                         The annual report under subsection (1) shall consist of –
+
+
+                         (a)     the financial statements in respect of the financial year, prepared in compliance
+                                 with the International Public Sector Accounting Standards
+
+                                 (IPSAS) issued by IFAC;
+
+
+                         (b)     a report on the activities of the FIU, its outcomes and outputs together with
+                                 information on its key performance indicators, during the financial year; and
+
+
+                         (c)     a corporate governance report in accordance with the National Code of
+                                 Corporate Governance.
+
+
+       (3)               The Director shall be responsible for the proper and timely performance of the
+                    requirements of this section.
+
+
+
+29D.
+       Submission of annual report
+
+
+        (a) The Director shall, not later than 3 months after the end of every financial year, submit to the Board
+             for approval the annual report referred to in section 29C in respect of that year, duly signed by him.
+       (b) After approval by the Board, the Director shall, not later than 30 April after the end of every financial
+                                    year, submit the annual report to the Director of Audit.
+       (c) The Director of Audit shall, within 6 months of the date of receipt of the annual report pursuant to
+             subsection (2), submit the annual report and his audit report to the Board.
+
+
+
+
+29E.   Disciplinary action for non-compliance
+       Where, in the opinion of the Director, any officer of the FIU –
+
+
+       (a) has not properly performed his duties with the result that the requirements of sections 29A to 29C
+             cannot be complied with within the prescribed time; or
+       (b) has not complied with any other provision of this Act,
+
+
+       the Board may, after giving an opportunity for the officer to be heard, take appropriate disciplinary action
+       against the officer.
+
+
+
+      (1) On receipt of the annual report referred to in section 29D(3), the Director shall, not later than one
+            month from the date of receipt, submit the annual report to the Minister.
+      (2) The Minister shall, at the earliest available opportunity, lay a copy of the annual report of the FIU
+            before the Assembly.
+
+
+                                              PART VII - MISCELLANEOUS
+30.   Confidentiality
+      (1)       The Director, every officer of the FIU, and the Chairperson and members of the Board shall -
+
+               (a)       before they begin to perform any duties under this Act, take an oath of confidentiality in the
+                         form set out in the Second Schedule; and
+
+               (b)       maintain during and after their relationship with the FIU the confidentiality of any matter
+                         relating to the relevant enactments.
+
+
+      (2)       No information from which an individual or body can be identified and which is acquired by the
+                FIU in the course of carrying out its functions shall be disclosed except where the disclosure
+                appears to the FIU to be necessary -
+
+               (a)       to enable the FIU to carry out its functions;
+
+               (b)       in the interests of the prevention or detection of crime; or
+
+               (c)       in connection with the discharge of any international obligation to which Mauritius is
+                         subject.
+
+      (3)       Any person who contravenes this section shall commit an offence and, on conviction, shall be
+                liable to a fine not exceeding one million rupees and to imprisonment for a term not exceeding 3
+                years.
+
+
+31.   Declaration of assets
+
+      (1)       The Director, every officer of the FIU, and the Chairperson and every member of the Board shall
+                file with the Commission, not later than 30 days from his appointment, a declaration of his assets
+                and liabilities in the form set out in the Third Schedule.
+
+      (2)       Every person referred to in subsection (1) shall make a fresh declaration of his assets and
+                liabilities, every year, and also on the expiry of his employment or termination of his employment
+                on any ground.
+
+
+
+      (3)       No declaration of assets filed under subsection (1) or subsection (2) shall be disclosed to any
+                person except with the consent of the Director or officer concerned or, on reasonable grounds
+                being shown, by order of a Judge.
+32.    Immunity
+       No action shall lie against the FIU, the Director, any officer of the FIU, or the Chairperson and members
+       of the Board, as the case may be, in respect of any act done or omission made by the FIU, the Director,
+       any officer of the FIU, or the Chairperson or members of the Board, as the case may be, in good faith, in
+       the exercise of the functions conferred on the FIU under this Act or any other enactment.
+
+33.    Funding
+       (1)     The expenses of the FIU shall be met out of-
+              (a)    money appropriated annually by Parliament for the purposes of the FIU; and
+
+              (b)     any government grants made to it.
+
+       (2)     (a) With the consent of the Minister, the FIU may accept donations.
+              (b) Article 910 of the Code Civil Mauricien shall not apply to a donation to the FIU.
+
+34.    -
+
+35.    Regulations
+       (1)     The Minister may make such regulations as he thinks fit for the purposes of this Act.
+
+       (2)     Any regulations made under subsection (1) may make provisions, not inconsistent with this Act or
+               any other Act of Parliament in order to enable Mauritius to comply with any international obligation
+               relating to the prevention or detection of money laundering.
+
+       (3)     Regulations, other than those referred to in subsection (2), may provide that any person who
+               contravenes them shall commit an offence and shall, on conviction, be liable to a fine not
+               exceeding 100,000 rupees and imprisonment for a term not exceeding 2 years.
+
+       (4)     Regulations made under subsection (1) may provide for the amendment of the Schedules.
+
+
+36. – 37. -
+
+                                                -------------------
+                                        FIRST SCHEDULE
+                                         [Section 2]
+
+
+                                PART I - REGULATORY BODIES
+Member of a relevant profession or                 Regulatory body
+occupation
+
+
+1. Professional accountant , public                Mauritius Institute of Professional Accountants
+   accountant and member firm under the            established under the Financial Reporting Act
+   Financial Reporting Act
+
+
+2. Licensed auditor under the Financial            Financial Reporting council established under
+   Reporting Act                                   the Financial Reporting Act
+
+
+3. Law firm, foreign law firm, joint law venture   Attorney General
+   and foreign lawyer and, under the Law
+   Practitioners Act
+
+
+4. Barrister                                       Bar Council established under the Mauritius
+                                                   Bar Association Act
+
+
+5. Attorney                                        Mauritius Law Society Council referred to in
+                                                   the Mauritius Law Society Act
+
+
+6. Notary                                          Chamber of notaries established under the
+                                                   Gambling Regulatory Authority Act
+
+
+7. Person licensed to operate a casino,      Gambling Regulatory Authority established
+   gaming house, gaming machine totalisator, under the Gambling Regulatory Authority Act
+   bookmaker and interactive gambling under
+   the Gambling Regulatory Authority Act
+
+
+8. Dealer under the Jewellery Act                  FIU
+
+
+9. Agent in land and/or building or Estate         FIU
+   Agency under the Local Government Act
+
+
+10. Land promoter and property developer           FIU
+    under the Local Government Act
+                          PART II - OVERSEAS FINANCIAL INTELLIGENCE UNITS
+
+
+COUNTRY                    NAME OF FINANCIAL INTELLIGENCE UNIT
+Afghanistan                Financial Transactions and Reports Analysis Center of Afghanistan ( FinTRACA )
+Albania                    General Directorate for the Prevention of Money Laundering (GDPML)
+Andorra                    Money Laundering Prevention Unit (UPB)
+Anguilla                   Money Laundering Reporting Authority (MLRA)
+Antigua and Barbuda        Office of National Drug and Money Laundering Control Policy (ONDCP)
+Argentina                   Unidad de Información Financiera (UIF-AR)
+Armenia                     Financial Monitoring Center (FMC)
+Aruba                      Reporting Center for Unusual Transactions (MOT-Aruba)
+Australia             Australian Transaction Report & Analysis Centre
+                      (AUSTRAC)
+Austria               Bundeskriminalamt-Austrjan              Financial
+                      Intelligence Unit (A-Flu)
+Azerbaijan            Financial Monitoring Service (FMS-AZ)
+Bahamas               Financial Intelligence Unit Bahamas (FIU-BS)
+Bahrain               Anti-Money Laundering Unit (AMLU)
+Barbados              Financial Intelligence Unit (FlU)
+Belarus               The Department of Financial Monitoring of the
+                      State Control
+                      Committee of the Republic of Belarus (DFM)
+                      Belgian Financial Intelligence Processing Unit
+Belgium               (CTIF-CFI)
+Belize                Financial Intelligence Unit Belize (FIU-BZ)
+Bermuda               Financial Intelligence Agency (FIA)
+Bosnia &              Financial Intelligence Department (FID)
+Herzegovina
+Brazil                 Council for Financial Activities Control (COAF)
+British Virgin Islands Financial Investigation Agency (FIA-VG)
+Bulgaria            Financial Intelligence Directorate of National Security Agency (FID)
+Cameroon            National Agency for Financial Investigation (NAFI)
+Canada         Financial Transactions and Reports Analysis Centre of Canada
+               (FINTRAC)
+Cayman Islands Financial Reporting Authority (CAYFIN)
+Chile             Unidad de Análisis Financiero (UAF-CL)
+Colombia          Unidad de Informacion y Analisis Financiero (UIAFCO)
+Cook Islands      Cook Islands Financial Intelligence Unit (CLFIU)
+Costa Rica        Financial Analysis Unit Costa Rican Institute on Drugs(1CD)
+Côte d’Ivoire~    National Unit for the Processing of Financial Information in Côte
+                  d’Ivoire (CENTIF-CI)
+Croatia           Anti-Money Laundering Office (AMLO)
+Curacao           Unusual Transactions Reporting Centre (MOT—NA)
+Cyprus            Unit for Combating Money Laundering (MOKAS)
+Czech Republic Financial Analytical Unit (FAU-CR)
+Denmark          Money Laundering Secretariat (HVIDVASK)
+Dominica         Financial Intelligence Unit (FIU-Dominica)
+Egypt            Egyptian Money Laundering Combating Unit (EMLCU)
+El Salvador      Financial Investigation Unit El Salvador(UIF-SV)
+Estonia          Money Laundering Information Bureau (MLIB)
+Fiji             Fiji Financial Intelligence Unit (FIJI-FlU)
+Finland          Financial Intelligence Unit (MLCH)
+France           Intelligence Processing and Action against Illicit Financial Networks
+                 Unit (TRACFIN)
+Gabon            National Agency for Financial Investigation (NAFI)
+Georgia          Financial Monitoring Service of Georgia (FMS)
+Germany          Financial Intelligence Unit Germany (FlU-Germany)
+Gibraltar        Gibraltar Financial Intelligence Unit (GFIU)
+Greece           Anti-Money Laundering Counter-Terrorist Financing and Source of
+                 Funds Investigation
+                   Authority (CFCI)
+Grenada            Financial Intelligence Unit (FLU- Grenada)
+Guatemala          Special Verification Intendancy (IVE)
+Guernsey           Financial Intelligence Service (FIS)
+Honduras           Unidad de Informacion Financiera (UIF- Honduras)
+
+
+Hong Kong          Joint Financial Intelligence Unit (JFIU)
+Hungary            Hungarian Financial Intelligence Unit (HFIU)
+Iceland            FlU-Iceland (RLS)
+India              Financial Intelligence Unit-India (FIU-IND)
+Indonesia          Indonesian Financial Transaction Reports and Analysis Centre (INTRAC)
+Ireland            Bureau of Fraud Investigation (MLIU)
+Isle of Man        Financial Crime Unit (FCU — IOM)
+Israel             Israel Money Laundering Prohibition Authority (IMPA)
+Italy              Italian Foreign Exchange Office I Anti-Money Laundering Service(UIC)
+Japan              Japan Financial Intelligence Center (JAFIC)
+Jersey             States of Jersey Police & Customs Joint Financial Crime Unit (JFCU)
+Jordan             Anti-Money Laundering and Counter Terrorist Financing Unit (AMLU Jordan)
+Kazakhstan         Kazakhstan Financial Monitoring (KFM)
+Korea (Republic of)Korea Financial Intelligence Unit (KoFIU)
+Kyrgyz (Republic) Financial Intelligence Service of the Kyrgyz Republic (FISKyrgyz)
+Latvia             Office for Prevention of Laundering of Proceeds derived from Criminal Activity (Control
+                   Service)(KD)
+Lebanon            Special Investigation Commission (SIC)
+Liechtenstein      Financial Intelligence Unit Liechtenstein (EFFI)
+Lithuania          Financial Crime Investigation Service under the Ministry of Interior (FCIS)
+Luxembourg         Cellule de Renseignement Financier (FIU-LUX)
+Macau              Financial Intelligence Office (GIF)
+Macedonia          Money Laundering Prevention Directorate (MLPD)
+Malawi             Financial Intelligence Unit (FIU-Malawi)
+Malaysia            Financial Intelligence Unit Malaysia (UPW)
+Mali                National Financial Intelligence Processing Unit (CENTIFMALI)
+Malta               Financial Intelligence Analysis Unit (FIAU)
+Marshall Islands    Domestic Financial Intelligence Unit (DFIU)
+Mexico             Financial Intelligence Unit (FlU-Mexico)
+Moldova            Office for Prevention and Control of Money Laundering
+                   ( SPCSB )
+Monaco              Service for Information and Monitoring of Financial Networks (SICCFIN)
+Mongolia           Mongolia Financial Intelligence Unit (FlU-MONGOLIA)
+Montenegro         Administration for the Prevention of Money Laundering
+                   ( APMLTF )
+Morocco            Financial Information Processing Unit (UTRF)
+Netherlands        Financial Intelligence Unit — Nederland (FlU-Netherlands)
+New Zealand        New Zealand Police Financial Intelligence Unit (FIU-NZ)
+Nigeria            Nigerian Financial Intelligence Unit (NFIU)
+Niue               Niue Financial Intelligence Unit (FIU-NU)
+Norway             Financial Intelligence Unit Norway (EFE)
+Panama             Financial Analysis Unit Panama (UAF-PA)
+Paraguay           Financial Intelligence Unit-Paraguay (UAF-PY)
+Peru               Financial Intelligence Unit of Peru (UIF-PERU)
+Philippines        Anti-Money Laundering Council (AMLC)
+Poland             General Inspector of Financial Information (GIIF)
+Portugal           Financial Intelligence Unit Portugal (UIF-PORTUGAL)
+Qatar              Qatar Financial Information Unit (QFIU)
+Romania            National Office for the Prevention and Control of Money
+                   Laundering (ONPCSB)
+Russia             The Federal Financial Monitoring Service/ Rosfinmonitoring
+                   ( FSFM )
+Samoa Islands      SAMOA Financial Intelligence Unit (SFIU)
+San Marino         Financial Intelligence Agency (BCSM)
+Saudi Arabia       Saudi Arabia Financial Investigation Unit (SAFIU)
+Senegal            National Financial Intelligence Processing Unit (CENTIF)
+Serbia              Administration for the Prevention on Money Laundering
+                    ( FCPML )
+Singapore           Suspicious Transaction Reporting Office (STRO)
+Slovakia            Financial Intelligence Unit of the Bureau of Organised
+                    Crime (SJFP-UBPOK)
+Slovenia            Office for Money Laundering Prevention (OMLP)
+Solomon Islands     Solomon Islands Financial Intelligence Unit (SIFIU)
+South Africa        Financial Intelligence Centre (FIC)
+Spain               Executive Service of the Commission for the Prevention of Money Laundering and
+                    Monetary Infractions (SEPBLAC)
+Sri Lanka           Sri Lanka Financial Intelligence Unit (CBSL)
+St. Kitts & Nevis   Financial Intelligence Unit (FIU-SKN)
+St. Lucia           Financial Intelligence Agency (FIA-St. Lucia)
+St. Vincent &       Financial Intelligence Unit St. Vincent and the Grenadines
+Grenadines          ( FIU-VC )
+Sweden              National Criminal Intelligence Service, Financial Unit
+                    ( NFIS )
+Switzerland         Money Laundering Reporting Office Switzerland (MROS)
+Syria               Combating Money Laundering and Terrorism Financing
+                    Commission (CMLC)
+Taiwan              Money Laundering Prevention Center (MLPC)
+Tajikistan          Financial Monitoring Department (FMD)
+Thailand            Anti-Money Laundering Office Thailand (AMLO-TH)
+Tunisia             Tunisian Financial Analysis Committee (CTAF)
+Turkey              Financial Crimes Investigation Board (MASAK)
+Turks & Caicos      Royal Turks and Caicos Islands Police Force Financial Intelligence Unit (FCU)
+Ukraine             The State Financial Monitoring Service of Ukraine (SCFM)
+United Arab         Anti-Money Laundering and Suspicious Cases Unit
+Emirates            (AMLSCU)
+United Kingdom      Serious Organised Crime Agency (SOCA)
+United States       Financial Crimes Enforcement Network (FinCEN)
+Uruguay             Unidad de Informacion y Analisis Financiero (UIAF)
+Uzbekistan          Department on struggle against tax currency crimes
+                    and legalization of criminal incomes at the Prose (FlUUZBEKISTAN)
+Vanuatu             Financial Intelligence Unit (FIU-Vanuatu)
+Venezuela           National Financial Intelligence Unit (UNIF)
+                                                        ---------------------------
+
+                                                       SECOND SCHEDULE
+
+                                                             (section 30)
+
+                                                      Oath of confidentiality
+
+IN THE SUPREME COURT OF MAURITIUS
+
+
+I, ..............................being appointed...........................do hereby swear/solemnly affirm that I will, to the best of
+my judgment, act in furtherance of the objects of the Financial Intelligence Unit and shall not, on any account and
+at any time, disclose, otherwise than with the authorisation of the Financial Intelligence Unit or where it is strictly
+necessary for the performance of my duties, any confidential information obtained by me during or after my
+relationship with the Financial Intelligence Unit.
+Taken before me,
+
+
+The Master and Registrar of the Supreme Court on ... (date)
+                                                                 ----------------------------
+
+
+                                                                      THIRD SCHEDULE
+
+
+                                                                            (section 31)
+DECLARATION OF ASSETS AND LIABILITIES
+I, ..........................of the Financial Intelligence Unit make oath/solemn affirmation as a and declare that -
+1.         I am unmarried/married under the system of (matrimonial regime)
+
+2.         My assets and those of my spouse and minor children (extent and nature of interests therein) in Mauritius
+           and outside Mauritius are as follows -
+
+
+          (a)        immoveable property –
+                     (i) freehold
+                      (ii) leasehold
+          (b)        motor vehicles
+          (c)        interest in any partnership, société, joint venture or succession
+          (d)        securities including treasury bills, units, etc. ,
+          (e)        cash in bank ;
+          (f)        cash in hand exceeding 50,000 rupees
+          (g)        jewellery and precious metals
+          (h)        other assets exceeding 50,000 rupees in the aggregate (specify)
+
+
+3.         My liabilities and those of my spouse and minor children are as follows -
+
+
+
+
+                                                                                                        Signature
+
+Sworn/solemnly affirmed by the abovenamed before me                                                     at   ………………………………………….
+this................................................... day of.......................................
+
+
+
+
+                                                                                                        Master and Registrar
+
+                                                                                                             Supreme Court
